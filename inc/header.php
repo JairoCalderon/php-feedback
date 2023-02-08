@@ -1,3 +1,7 @@
+<?php
+    include "config/database.php"
+?>
+
 <nav class="navbar navbar-expand-sm navbar-light bg-light mb-4">
         <div class="container">
             <a class="navbar-brand" href="#">Traversy Media</a>
